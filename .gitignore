@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+caja.db
+build/
+dist/
+instance/
+*.spec
+*.exe
+venv/
+*.db 
